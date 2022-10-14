@@ -17,6 +17,8 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
+<br />
+
 ### Contact with me:
 [<img align="left" alt="OlehMarynchuk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="OlehMarynchuk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
